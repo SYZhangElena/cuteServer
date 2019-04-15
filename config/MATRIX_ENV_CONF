@@ -1,0 +1,10 @@
+[base]
+PORT = 9999
+IPADDR = 0.0.0.0
+MATRIX_CACHE_DIR = "/home/eric/codes/sabiServer/system/cache"
+MATRIX_PRIVDATA_DIR = "/home/eric/codes/sabiServer/system/privdata"
+MATRIX_APPLOGS_DIR = "/home/eric/codes/sabiServer/system/applogs"
+MATRIX_ACCESSLOGS_DIR = "/home/eric/codes/sabiServer/system/logs"
+
+[sqlite]
+MATRIX_DB_FILE = "/home/eric/codes/sabiServer/DB.db"
