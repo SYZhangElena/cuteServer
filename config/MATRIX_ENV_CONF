@@ -1,5 +1,5 @@
 [base]
-PORT = 9999
+PORT = 80
 IPADDR = 0.0.0.0
 MATRIX_CACHE_DIR = "D:/cuteServer/system/cache"
 MATRIX_PRIVDATA_DIR = "D:/cuteServer/system/privdata"

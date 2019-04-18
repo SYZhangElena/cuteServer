@@ -219,7 +219,7 @@ def get_event_by_receiver(params):
     user_id = params['user_id']
     with conn:
         cur = conn.cursor()
-        cur.execute("SELECT * FROM event WHERE helpUserId=? ORDER BY createTime DESC", (user_id,))
+        cur.execute("SELECT * FROM event WHERE helpUserId=? AND isEnd<>0 ORDER BY createTime DESC", (user_id,))
         rows = cur.fetchall()
     res = []
     for row in rows:
