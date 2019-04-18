@@ -2,7 +2,6 @@
 #coding: utf-8
 import sys
 import os
-import signal
 import logging
 import time
 import tornado.ioloop
@@ -31,9 +30,6 @@ def changelog(signum, frame):
     logger.addHandler(fh)
 
 def main():
-    signal.signal(signal.SIGTERM, handler)
-    signal.signal(signal.SIGINT, handler)
-    signal.signal(signal.SIGUSR2, changelog)
     application = tornado.web.Application(url_patterns, **settings)
     global server
 
@@ -41,7 +37,7 @@ def main():
     logging.info(options.port)
     logging.info(options.address)
     server.bind(options.port, options.address)
-    server.start(0)
+    server.start(1)
 
     tornado.ioloop.IOLoop.instance().start()
 

@@ -1,0 +1,371 @@
+2019/04/17 15:45:12|INFO|7472|9999
+2019/04/17 15:45:12|INFO|7472|0.0.0.0
+2019/04/17 15:46:43|INFO|7472|remote ip: 127.0.0.1
+2019/04/17 15:46:43|INFO|7472|200 GET /events/query (127.0.0.1) 98.30ms
+2019/04/17 15:50:30|INFO|7472|remote ip: 127.0.0.1
+2019/04/17 15:50:30|INFO|7472|b'a=1&b=2'
+2019/04/17 15:50:30|INFO|7472|Invalid post params
+2019/04/17 15:50:30|INFO|7472|200 POST /events/create (127.0.0.1) 26.71ms
+2019/04/17 15:51:02|INFO|7472|remote ip: 127.0.0.1
+2019/04/17 15:51:02|INFO|7472|200 GET /events/query (127.0.0.1) 85.11ms
+2019/04/17 15:51:58|INFO|7472|remote ip: 127.0.0.1
+2019/04/17 15:51:58|INFO|7472|200 GET /events/query (127.0.0.1) 20.62ms
+2019/04/17 15:52:14|INFO|7472|remote ip: 127.0.0.1
+2019/04/17 15:52:14|INFO|7472|b'{"id":"","createUserId":"","helpUserId":"","isEnd":"","createTime":"","helpTime":"","type":"","receiveName":"","receivePhone":"","expressFirm":"","getAddress":"","getTime":"","note":"","tip":"","sendAddress1":"","sendAddress2":""}'
+2019/04/17 15:52:14|INFO|7472|200 POST /events/create (127.0.0.1) 12.90ms
+2019/04/17 15:54:12|INFO|7472|remote ip: 127.0.0.1
+2019/04/17 15:54:12|INFO|7472|200 GET /events/query (127.0.0.1) 47.51ms
+2019/04/17 15:54:23|INFO|7472|remote ip: 127.0.0.1
+2019/04/17 15:54:23|INFO|7472|b'{"id":"","createUserId":"","helpUserId":"","isEnd":"","createTime":"","helpTime":"","type":"","receiveName":"","receivePhone":"","expressFirm":"","getAddress":"","getTime":"","note":"","tip":"","sendAddress1":"","sendAddress2":""}'
+2019/04/17 15:54:23|INFO|7472|200 POST /events/create (127.0.0.1) 8.98ms
+2019/04/17 15:58:32|INFO|7472|remote ip: 127.0.0.1
+2019/04/17 15:58:32|INFO|7472|200 GET /events/query (127.0.0.1) 109.10ms
+2019/04/17 16:00:05|INFO|7472|remote ip: 127.0.0.1
+2019/04/17 16:00:05|INFO|7472|200 GET /events/query (127.0.0.1) 51.65ms
+2019/04/17 16:01:23|INFO|7472|remote ip: 127.0.0.1
+2019/04/17 16:01:23|INFO|7472|200 GET /events/query (127.0.0.1) 29.92ms
+2019/04/17 16:01:58|INFO|13816|9999
+2019/04/17 16:01:58|INFO|13816|0.0.0.0
+2019/04/17 16:02:14|INFO|13816|remote ip: 127.0.0.1
+2019/04/17 16:02:14|INFO|13816|b'{"createUserId":"","helpUserId":"","isEnd":"","createTime":"","helpTime":"","type":"","receiveName":"","receivePhone":"","expressFirm":"","getAddress":"","getTime":"","note":"","tip":"","sendAddress1":"","sendAddress2":""}'
+2019/04/17 16:02:14|INFO|13816|200 POST /events/create (127.0.0.1) 42.02ms
+2019/04/17 16:02:33|INFO|13816|remote ip: 127.0.0.1
+2019/04/17 16:02:33|INFO|13816|200 GET /events/query (127.0.0.1) 25.60ms
+2019/04/17 16:02:47|INFO|13816|remote ip: 127.0.0.1
+2019/04/17 16:02:47|INFO|13816|b'{"createUserId":"","helpUserId":"","isEnd":"","createTime":"","helpTime":"","type":"","receiveName":"","receivePhone":"","expressFirm":"","getAddress":"","getTime":"","note":"","tip":"","sendAddress1":"","sendAddress2":""}'
+2019/04/17 16:02:47|INFO|13816|200 POST /events/create (127.0.0.1) 13.12ms
+2019/04/17 16:06:21|INFO|13816|remote ip: 127.0.0.1
+2019/04/17 16:06:21|INFO|13816|200 GET /events/query (127.0.0.1) 48.38ms
+2019/04/17 16:06:33|INFO|29504|9999
+2019/04/17 16:06:33|INFO|29504|0.0.0.0
+2019/04/17 16:06:42|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:06:42|INFO|29504|b'{"createUserId":"","helpUserId":"","isEnd":"","createTime":"","helpTime":"","type":"","receiveName":"","receivePhone":"","expressFirm":"","getAddress":"","getTime":"","note":"","tip":"","sendAddress1":"","sendAddress2":""}'
+2019/04/17 16:06:42|INFO|29504|200 POST /events/create (127.0.0.1) 44.03ms
+2019/04/17 16:08:23|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:08:23|INFO|29504|200 GET /events/query (127.0.0.1) 146.42ms
+2019/04/17 16:08:39|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:08:39|INFO|29504|b'{"createUserId":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132","helpUserId":"","isEnd":0,"createTime":"2019/04/17 16:08:38","helpTime":"","type":"\xe5\xbf\xab\xe9\x80\x92","receiveName":"","receivePhone":"asd","expressFirm":"asdas","getAddress":"","getTime":"","note":"","tip":"","sendAddress1":"","sendAddress2":""}'
+2019/04/17 16:08:39|INFO|29504|200 POST /events/create (127.0.0.1) 36.90ms
+2019/04/17 16:09:55|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:09:55|INFO|29504|200 GET /events/query (127.0.0.1) 85.43ms
+2019/04/17 16:12:47|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:12:47|INFO|29504|200 GET /events/query (127.0.0.1) 55.85ms
+2019/04/17 16:15:53|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:15:53|INFO|29504|200 GET /events/query (127.0.0.1) 20.36ms
+2019/04/17 16:22:34|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:22:34|INFO|29504|200 GET /events/query (127.0.0.1) 129.44ms
+2019/04/17 16:24:14|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:24:14|INFO|29504|200 GET /events/query (127.0.0.1) 19.44ms
+2019/04/17 16:26:55|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:26:55|INFO|29504|b'{"createUserId":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132","helpUserId":"","isEnd":0,"createTime":"2019/04/17 16:26:54","helpTime":"","type":"\xe5\xbf\xab\xe9\x80\x92","receiveName":"asd","receivePhone":"13333333333","expressFirm":"asdasd","getAddress":"","getTime":"asdsada","note":"asdasdasd","tip":"123","sendAddress1":"","sendAddress2":"a"}'
+2019/04/17 16:26:55|INFO|29504|200 POST /events/create (127.0.0.1) 62.83ms
+2019/04/17 16:27:14|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:27:14|INFO|29504|200 GET /events/query (127.0.0.1) 20.69ms
+2019/04/17 16:27:57|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:27:57|INFO|29504|200 GET /events/query (127.0.0.1) 8.98ms
+2019/04/17 16:28:29|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:28:29|INFO|29504|200 GET /events/query (127.0.0.1) 29.19ms
+2019/04/17 16:28:37|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:28:37|INFO|29504|200 GET /events/query (127.0.0.1) 27.67ms
+2019/04/17 16:29:36|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:29:36|INFO|29504|200 GET /events/query (127.0.0.1) 36.90ms
+2019/04/17 16:30:12|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:30:12|INFO|29504|200 GET /events/query (127.0.0.1) 9.97ms
+2019/04/17 16:30:19|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:30:19|INFO|29504|200 GET /events/query (127.0.0.1) 7.50ms
+2019/04/17 16:30:40|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:30:40|INFO|29504|200 GET /events/query (127.0.0.1) 11.97ms
+2019/04/17 16:31:14|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:31:14|INFO|29504|200 GET /events/query (127.0.0.1) 28.94ms
+2019/04/17 16:31:42|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:31:42|INFO|29504|200 GET /events/query (127.0.0.1) 12.96ms
+2019/04/17 16:32:26|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:32:26|INFO|29504|200 GET /events/query (127.0.0.1) 6.98ms
+2019/04/17 16:32:54|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:32:54|INFO|29504|200 GET /events/query (127.0.0.1) 15.96ms
+2019/04/17 16:33:01|INFO|29504|remote ip: 127.0.0.1
+2019/04/17 16:33:01|INFO|29504|200 GET /events/query (127.0.0.1) 13.97ms
+2019/04/17 16:36:13|INFO|10428|9999
+2019/04/17 16:36:13|INFO|10428|0.0.0.0
+2019/04/17 16:36:54|INFO|10428|remote ip: 127.0.0.1
+2019/04/17 16:36:54|INFO|10428|200 GET /events/query (127.0.0.1) 85.77ms
+2019/04/17 16:43:29|INFO|10428|remote ip: 127.0.0.1
+2019/04/17 16:43:29|INFO|10428|200 GET /events/query (127.0.0.1) 178.02ms
+2019/04/17 16:44:27|INFO|10428|remote ip: 127.0.0.1
+2019/04/17 16:44:27|INFO|10428|200 GET /events/query (127.0.0.1) 27.00ms
+2019/04/17 16:45:54|INFO|10428|remote ip: 127.0.0.1
+2019/04/17 16:45:54|INFO|10428|200 GET /events/query (127.0.0.1) 97.13ms
+2019/04/17 16:46:30|INFO|10428|remote ip: 127.0.0.1
+2019/04/17 16:46:30|INFO|10428|200 GET /events/query (127.0.0.1) 32.90ms
+2019/04/17 16:46:41|INFO|10428|remote ip: 127.0.0.1
+2019/04/17 16:46:41|INFO|10428|200 GET /events/query (127.0.0.1) 8.97ms
+2019/04/17 16:47:11|INFO|10428|remote ip: 127.0.0.1
+2019/04/17 16:47:11|INFO|10428|200 GET /events/query (127.0.0.1) 92.13ms
+2019/04/17 16:47:37|INFO|10428|remote ip: 127.0.0.1
+2019/04/17 16:47:37|INFO|10428|200 GET /events/query (127.0.0.1) 17.95ms
+2019/04/17 16:47:54|INFO|10428|remote ip: 127.0.0.1
+2019/04/17 16:47:54|INFO|10428|200 GET /events/query (127.0.0.1) 8.98ms
+2019/04/17 19:58:31|INFO|2456|9999
+2019/04/17 19:58:31|INFO|2456|0.0.0.0
+2019/04/17 20:08:31|INFO|2456|remote ip: 127.0.0.1
+2019/04/17 20:08:31|INFO|2456|200 GET /events/query (127.0.0.1) 329.13ms
+2019/04/17 20:08:55|INFO|2456|remote ip: 127.0.0.1
+2019/04/17 20:08:55|INFO|2456|200 GET /events/query (127.0.0.1) 8.98ms
+2019/04/17 20:09:06|INFO|2456|remote ip: 127.0.0.1
+2019/04/17 20:09:06|INFO|2456|b'[{"field":"isEnd","value":1},{"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"field":"helpTime","value":"2019/04/17 20:09:05"}]'
+2019/04/17 20:09:06|ERROR|2456|Traceback (most recent call last):
+  File "D:\cuteServer\utils\db.py", line 21, in _trace
+    res = f(*args, **kwargs)
+  File "D:\cuteServer\utils\db.py", line 132, in change_event
+    success = True
+TypeError: list indices must be integers or slices, not str
+Traceback (most recent call last):
+  File "D:\cuteServer\utils\db.py", line 21, in _trace
+    res = f(*args, **kwargs)
+  File "D:\cuteServer\utils\db.py", line 132, in change_event
+    success = True
+TypeError: list indices must be integers or slices, not str
+2019/04/17 20:09:06|INFO|2456|200 POST /events/receive (127.0.0.1) 32.91ms
+2019/04/17 20:10:08|INFO|2456|remote ip: 127.0.0.1
+2019/04/17 20:10:08|INFO|2456|200 GET /events/query (127.0.0.1) 10.97ms
+2019/04/17 20:10:12|INFO|2456|remote ip: 127.0.0.1
+2019/04/17 20:10:12|INFO|2456|b'[{"field":"isEnd","value":1},{"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"field":"helpTime","value":"2019/04/17 20:10:11"}]'
+2019/04/17 20:10:12|ERROR|2456|Traceback (most recent call last):
+  File "D:\cuteServer\utils\db.py", line 21, in _trace
+    res = f(*args, **kwargs)
+  File "D:\cuteServer\utils\db.py", line 132, in change_event
+    success = True
+TypeError: list indices must be integers or slices, not str
+Traceback (most recent call last):
+  File "D:\cuteServer\utils\db.py", line 21, in _trace
+    res = f(*args, **kwargs)
+  File "D:\cuteServer\utils\db.py", line 132, in change_event
+    success = True
+TypeError: list indices must be integers or slices, not str
+2019/04/17 20:10:12|INFO|2456|200 POST /events/receive (127.0.0.1) 2.99ms
+2019/04/17 20:11:22|INFO|9952|9999
+2019/04/17 20:11:22|INFO|9952|0.0.0.0
+2019/04/17 20:12:17|INFO|9952|remote ip: 127.0.0.1
+2019/04/17 20:12:17|INFO|9952|200 GET /events/query (127.0.0.1) 42.89ms
+2019/04/17 20:12:23|INFO|9952|remote ip: 127.0.0.1
+2019/04/17 20:12:23|INFO|9952|b'[{"field":"isEnd","value":1},{"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"field":"helpTime","value":"2019/04/17 20:12:23"}]'
+2019/04/17 20:12:23|ERROR|9952|Traceback (most recent call last):
+  File "D:\cuteServer\utils\db.py", line 21, in _trace
+    res = f(*args, **kwargs)
+  File "D:\cuteServer\utils\db.py", line 135, in change_event
+    event_id = params['event_id']
+KeyError: 'event_id'
+Traceback (most recent call last):
+  File "D:\cuteServer\utils\db.py", line 21, in _trace
+    res = f(*args, **kwargs)
+  File "D:\cuteServer\utils\db.py", line 135, in change_event
+    event_id = params['event_id']
+KeyError: 'event_id'
+2019/04/17 20:12:23|INFO|9952|200 POST /events/receive (127.0.0.1) 5.99ms
+2019/04/17 20:15:25|INFO|7628|9999
+2019/04/17 20:15:25|INFO|7628|0.0.0.0
+2019/04/17 20:15:30|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:15:30|INFO|7628|200 GET /events/query (127.0.0.1) 42.89ms
+2019/04/17 20:15:38|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:15:38|INFO|7628|b'[{"field":"isEnd","value":1},{"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"field":"helpTime","value":"2019/04/17 20:15:38"}]'
+2019/04/17 20:15:38|ERROR|7628|Traceback (most recent call last):
+  File "D:\cuteServer\utils\db.py", line 21, in _trace
+    res = f(*args, **kwargs)
+  File "D:\cuteServer\utils\db.py", line 135, in change_event
+    event_id = params['event_id']
+KeyError: 'event_id'
+Traceback (most recent call last):
+  File "D:\cuteServer\utils\db.py", line 21, in _trace
+    res = f(*args, **kwargs)
+  File "D:\cuteServer\utils\db.py", line 135, in change_event
+    event_id = params['event_id']
+KeyError: 'event_id'
+2019/04/17 20:15:38|INFO|7628|200 POST /events/receive (127.0.0.1) 4.99ms
+2019/04/17 20:15:59|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:15:59|INFO|7628|200 GET /events/query (127.0.0.1) 48.87ms
+2019/04/17 20:16:01|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:16:01|INFO|7628|200 GET /events/query (127.0.0.1) 2.99ms
+2019/04/17 20:16:07|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:16:07|INFO|7628|b'[{"event_id":7,"field":"isEnd","value":1},{"event_id":7,"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"event_id":7,"field":"helpTime","value":"2019/04/17 20:16:07"}]'
+2019/04/17 20:16:07|INFO|7628|200 POST /events/receive (127.0.0.1) 51.86ms
+2019/04/17 20:18:04|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:18:04|INFO|7628|200 GET /events/query (127.0.0.1) 14.96ms
+2019/04/17 20:18:08|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:18:08|INFO|7628|b'[{"event_id":2,"field":"isEnd","value":1},{"event_id":2,"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"event_id":2,"field":"helpTime","value":"2019/04/17 20:18:08"}]'
+2019/04/17 20:18:08|INFO|7628|200 POST /events/receive (127.0.0.1) 49.87ms
+2019/04/17 20:18:09|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:18:09|INFO|7628|b'[{"event_id":2,"field":"isEnd","value":1},{"event_id":2,"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"event_id":2,"field":"helpTime","value":"2019/04/17 20:18:09"}]'
+2019/04/17 20:18:09|INFO|7628|200 POST /events/receive (127.0.0.1) 90.76ms
+2019/04/17 20:18:44|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:18:44|INFO|7628|200 GET /events/query (127.0.0.1) 20.94ms
+2019/04/17 20:18:47|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:18:47|INFO|7628|b'[{"event_id":3,"field":"isEnd","value":1},{"event_id":3,"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"event_id":3,"field":"helpTime","value":"2019/04/17 20:18:47"}]'
+2019/04/17 20:18:47|INFO|7628|200 POST /events/receive (127.0.0.1) 33.90ms
+2019/04/17 20:18:47|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:18:47|INFO|7628|200 GET /events/query (127.0.0.1) 17.95ms
+2019/04/17 20:18:52|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:18:52|INFO|7628|b'[{"event_id":1,"field":"isEnd","value":1},{"event_id":1,"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"event_id":1,"field":"helpTime","value":"2019/04/17 20:18:51"}]'
+2019/04/17 20:18:52|INFO|7628|200 POST /events/receive (127.0.0.1) 31.91ms
+2019/04/17 20:18:52|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:18:52|INFO|7628|200 GET /events/query (127.0.0.1) 7.98ms
+2019/04/17 20:18:54|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:18:54|INFO|7628|b'[{"event_id":8,"field":"isEnd","value":1},{"event_id":8,"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"event_id":8,"field":"helpTime","value":"2019/04/17 20:18:54"}]'
+2019/04/17 20:18:54|INFO|7628|200 POST /events/receive (127.0.0.1) 83.77ms
+2019/04/17 20:18:54|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:18:54|INFO|7628|200 GET /events/query (127.0.0.1) 9.97ms
+2019/04/17 20:20:56|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:20:56|INFO|7628|200 GET /events/query (127.0.0.1) 19.95ms
+2019/04/17 20:22:02|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:22:03|INFO|7628|200 GET /events/query (127.0.0.1) 72.81ms
+2019/04/17 20:28:01|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:28:01|INFO|7628|200 GET /events/query (127.0.0.1) 44.36ms
+2019/04/17 20:29:27|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:29:28|INFO|7628|200 GET /events/query (127.0.0.1) 25.53ms
+2019/04/17 20:30:29|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:30:29|INFO|7628|b'{"userId":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 20:30:29|ERROR|7628|Traceback (most recent call last):
+  File "D:\cuteServer\utils\db.py", line 21, in _trace
+    res = f(*args, **kwargs)
+  File "D:\cuteServer\utils\db.py", line 135, in change_event
+    event_id = params['event_id']
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "D:\cuteServer\utils\db.py", line 21, in _trace
+    res = f(*args, **kwargs)
+  File "D:\cuteServer\utils\db.py", line 135, in change_event
+    event_id = params['event_id']
+TypeError: string indices must be integers
+2019/04/17 20:30:29|INFO|7628|200 POST /events/receive (127.0.0.1) 24.97ms
+2019/04/17 20:34:38|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:34:38|INFO|7628|200 GET /events/query (127.0.0.1) 159.30ms
+2019/04/17 20:35:26|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:35:26|INFO|7628|200 GET /events/query (127.0.0.1) 11.41ms
+2019/04/17 20:37:34|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:37:34|INFO|7628|200 GET /events/query (127.0.0.1) 17.93ms
+2019/04/17 20:39:37|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:39:37|INFO|7628|200 GET /events/query (127.0.0.1) 16.77ms
+2019/04/17 20:42:03|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:42:03|INFO|7628|200 GET /events/query (127.0.0.1) 13.96ms
+2019/04/17 20:43:28|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:43:28|INFO|7628|200 GET /events/query (127.0.0.1) 36.90ms
+2019/04/17 20:44:10|INFO|7628|remote ip: 127.0.0.1
+2019/04/17 20:44:10|INFO|7628|200 GET /events/query (127.0.0.1) 5.08ms
+2019/04/17 20:47:20|INFO|21628|9999
+2019/04/17 20:47:20|INFO|21628|0.0.0.0
+2019/04/17 20:50:01|INFO|2948|9999
+2019/04/17 20:50:01|INFO|2948|0.0.0.0
+2019/04/17 20:51:40|INFO|2948|remote ip: 127.0.0.1
+2019/04/17 20:51:40|INFO|2948|200 GET /events/query (127.0.0.1) 109.63ms
+2019/04/17 20:52:35|INFO|2948|remote ip: 127.0.0.1
+2019/04/17 20:52:35|INFO|2948|200 GET /events/query (127.0.0.1) 33.24ms
+2019/04/17 20:55:31|INFO|2948|remote ip: 127.0.0.1
+2019/04/17 20:55:31|INFO|2948|200 GET /events/query (127.0.0.1) 12.69ms
+2019/04/17 21:00:18|INFO|2948|remote ip: 127.0.0.1
+2019/04/17 21:00:18|INFO|2948|200 GET /events/query (127.0.0.1) 38.28ms
+2019/04/17 21:02:52|INFO|11976|9999
+2019/04/17 21:02:52|INFO|11976|0.0.0.0
+2019/04/17 21:02:57|INFO|11976|remote ip: 127.0.0.1
+2019/04/17 21:02:57|INFO|11976|200 GET /events/query (127.0.0.1) 67.64ms
+2019/04/17 21:03:32|INFO|11976|remote ip: 127.0.0.1
+2019/04/17 21:03:32|INFO|11976|200 GET /events/query (127.0.0.1) 45.39ms
+2019/04/17 21:03:37|INFO|11976|remote ip: 127.0.0.1
+2019/04/17 21:03:37|WARNING|11976|404 GET /events/publishby (127.0.0.1) 1.89ms
+2019/04/17 21:05:20|INFO|11976|remote ip: 127.0.0.1
+2019/04/17 21:05:20|INFO|11976|200 GET /events/query (127.0.0.1) 233.15ms
+2019/04/17 21:05:43|INFO|11976|remote ip: 127.0.0.1
+2019/04/17 21:05:44|INFO|11976|200 GET /events/query (127.0.0.1) 25.02ms
+2019/04/17 21:05:49|INFO|11976|remote ip: 127.0.0.1
+2019/04/17 21:05:49|INFO|11976|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:05:49|INFO|11976|200 POST /events/publishby (127.0.0.1) 49.46ms
+2019/04/17 21:08:44|INFO|21096|9999
+2019/04/17 21:08:44|INFO|21096|0.0.0.0
+2019/04/17 21:08:52|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:08:52|INFO|21096|200 GET /events/query (127.0.0.1) 45.64ms
+2019/04/17 21:08:57|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:08:57|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:08:57|INFO|21096|200 POST /events/publishby (127.0.0.1) 2.74ms
+2019/04/17 21:09:03|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:09:03|WARNING|21096|405 POST /events/publishBy (127.0.0.1) 2.70ms
+2019/04/17 21:09:44|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:09:44|INFO|21096|200 GET /events/query (127.0.0.1) 15.52ms
+2019/04/17 21:09:53|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:09:53|INFO|21096|200 GET /events/query (127.0.0.1) 5.05ms
+2019/04/17 21:10:13|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:10:13|INFO|21096|200 GET /events/query (127.0.0.1) 16.05ms
+2019/04/17 21:10:18|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:10:18|WARNING|21096|405 POST /events/publishBy (127.0.0.1) 1.45ms
+2019/04/17 21:11:14|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:11:14|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:11:14|INFO|21096|200 POST /events/publishby (127.0.0.1) 4.92ms
+2019/04/17 21:11:18|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:11:18|WARNING|21096|405 POST /events/publishBy (127.0.0.1) 3.51ms
+2019/04/17 21:12:23|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:12:23|INFO|21096|200 GET /events/query (127.0.0.1) 11.97ms
+2019/04/17 21:12:40|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:12:40|INFO|21096|200 GET /events/query (127.0.0.1) 9.87ms
+2019/04/17 21:12:44|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:12:44|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:12:44|INFO|21096|200 POST /events/publishby (127.0.0.1) 4.95ms
+2019/04/17 21:13:06|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:13:06|INFO|21096|200 GET /events/query (127.0.0.1) 20.94ms
+2019/04/17 21:13:10|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:13:10|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:13:10|INFO|21096|200 POST /events/publishby (127.0.0.1) 1.95ms
+2019/04/17 21:13:13|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:13:13|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:13:13|INFO|21096|200 POST /events/helpby (127.0.0.1) 18.17ms
+2019/04/17 21:13:49|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:13:49|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:13:49|INFO|21096|200 POST /events/publishby (127.0.0.1) 2.99ms
+2019/04/17 21:13:55|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:13:55|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:13:55|INFO|21096|200 POST /events/helpby (127.0.0.1) 10.66ms
+2019/04/17 21:14:17|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:14:17|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:14:17|INFO|21096|200 POST /events/helpby (127.0.0.1) 4.49ms
+2019/04/17 21:17:22|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:17:22|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:17:22|INFO|21096|200 POST /events/helpby (127.0.0.1) 44.88ms
+2019/04/17 21:17:37|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:17:37|INFO|21096|b'[{"event_id":7,"field":"isEnd","value":1},{"event_id":7,"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"event_id":7,"field":"helpTime","value":"2019/04/17 21:17:37"}]'
+2019/04/17 21:17:37|INFO|21096|200 POST /events/receive (127.0.0.1) 64.18ms
+2019/04/17 21:17:37|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:17:37|INFO|21096|200 GET /events/query (127.0.0.1) 27.97ms
+2019/04/17 21:17:42|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:17:42|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:17:43|INFO|21096|200 POST /events/helpby (127.0.0.1) 5.99ms
+2019/04/17 21:17:48|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:17:48|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:17:48|INFO|21096|200 POST /events/helpby (127.0.0.1) 21.32ms
+2019/04/17 21:19:48|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:19:48|INFO|21096|b'{"createUserId":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132","helpUserId":"","isEnd":0,"createTime":"2019/04/17 21:19:47","helpTime":"","type":"\xe5\xbf\xab\xe9\x80\x92","receiveName":"\xe6\x9d\x8eTT","receivePhone":"13318659837","expressFirm":"jklsf","getAddress":"","getTime":"\xe6\x98\x8e\xe5\xa4\xa9\xe4\xb8\xad\xe5\x8d\x88","note":"xiaoxin","tip":"4","sendAddress1":"","sendAddress2":"895"}'
+2019/04/17 21:19:48|INFO|21096|200 POST /events/create (127.0.0.1) 36.36ms
+2019/04/17 21:19:52|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:19:52|INFO|21096|200 GET /events/query (127.0.0.1) 12.94ms
+2019/04/17 21:21:34|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:21:34|INFO|21096|200 GET /events/query (127.0.0.1) 12.96ms
+2019/04/17 21:22:02|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:22:02|INFO|21096|b'[{"event_id":2,"field":"isEnd","value":1},{"event_id":2,"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"event_id":2,"field":"helpTime","value":"2019/04/17 21:22:02"}]'
+2019/04/17 21:22:02|INFO|21096|200 POST /events/receive (127.0.0.1) 22.94ms
+2019/04/17 21:22:02|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:22:02|INFO|21096|200 GET /events/query (127.0.0.1) 9.02ms
+2019/04/17 21:22:06|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:22:06|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:22:06|INFO|21096|200 POST /events/helpby (127.0.0.1) 11.00ms
+2019/04/17 21:22:22|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:22:22|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:22:22|INFO|21096|200 POST /events/publishby (127.0.0.1) 4.99ms
+2019/04/17 21:22:31|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:22:31|INFO|21096|b'[{"event_id":9,"field":"isEnd","value":1},{"event_id":9,"field":"helpUserId","value":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"},{"event_id":9,"field":"helpTime","value":"2019/04/17 21:22:31"}]'
+2019/04/17 21:22:31|INFO|21096|200 POST /events/receive (127.0.0.1) 42.85ms
+2019/04/17 21:22:31|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:22:31|INFO|21096|200 GET /events/query (127.0.0.1) 14.96ms
+2019/04/17 21:22:35|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:22:35|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:22:35|INFO|21096|200 POST /events/helpby (127.0.0.1) 3.99ms
+2019/04/17 21:23:58|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:23:58|INFO|21096|b'{"createUserId":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132","helpUserId":"","isEnd":0,"createTime":"2019/04/17 21:23:57","helpTime":"","type":"\xe5\xbf\xab\xe9\x80\x92","receiveName":"asd","receivePhone":"13333333333","expressFirm":"\xe5\x9c\x86\xe9\x80\x9a","getAddress":"","getTime":"12:00","note":"","tip":"999","sendAddress1":"","sendAddress2":"303"}'
+2019/04/17 21:23:58|INFO|21096|200 POST /events/create (127.0.0.1) 19.94ms
+2019/04/17 21:24:07|INFO|21096|remote ip: 127.0.0.1
+2019/04/17 21:24:07|INFO|21096|b'{"user_id":"https://wx.qlogo.cn/mmopen/vi_32/hO09nIzpCuHxbic5GKGicq45AXNiaDR7GiabdpjsykfTYeN6KoqJTNZTKO67bmdOo5GQ6Bc5FkkB5QiaERMcscxCQ9A/132"}'
+2019/04/17 21:24:07|INFO|21096|200 POST /events/publishby (127.0.0.1) 3.96ms

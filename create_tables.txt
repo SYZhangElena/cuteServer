@@ -1,0 +1,50 @@
+create table event (
+    id integer primary key AUTOINCREMENT not null,
+    createUserId character(200) not null,
+    helpUserId character(200) not null,
+    isEnd integer not null,
+    createTime date not null,
+    helpTime date,
+    type character(20),
+    receiveName character(20),
+    receivePhone character(20),
+    expressFirm character(20),
+    getAddress character(40),
+    getTime character(40),
+    note character(100),
+    tip int,
+    sendAddress1 character(100),
+    sendAddress2 character(100)
+);
+
+insert into event values (
+    null, 123,123, false, 
+    '2019-4-10 19:20:23.223', 
+    '2019-4-10 20:20:23.223', 
+    '快递', '李小雨', '13804096493', 
+    '中通','学校篮球场',
+    '4月11日中午12点',
+    '取件号30',
+    2,'1舍','308号');
+
+insert into event values (
+    null, 234,234, false, 
+    '2019-4-10 19:21:28.223', 
+    '2019-4-10 20:21:23.223', 
+    '其他', '李小仨', '13809096494', 
+    '韵达','学校篮球场',
+    '4月10日下午5点',
+    '取件号30',
+    2,'6舍','708号');
+
+
+insert into event values (
+    null, 483,234, false, 
+    '2019-4-10 19:21:28.223', 
+    '2019-4-10 20:21:23.223', 
+    '外卖', '李小奇', '13824090493', 
+    '申通','职业中专对面',
+    '4月10日下午5点',
+    '取件号91',
+    2,'7舍','308号');
+
